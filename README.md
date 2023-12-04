@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asheckn
-- 👀 I’m interested in Game development , flutter development and deep learning 
-- 🌱 I Have an honors Degree in Computer Science and I am interested in Deep learning and AI
+- 👀 I’m interested in Game development , flutter ,Angular and AI
+- 🌱 I Have an honors Degree in Computer Science and a passion for cool stuff
 - 💞️ I’m looking to collaborate on App Development and projects involving AI or Deep learning 
 - 📫 You can get in Touch with me on my email, nyasha.ahove@gmail.com
 
